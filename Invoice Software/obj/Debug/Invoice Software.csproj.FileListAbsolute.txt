@@ -1,0 +1,14 @@
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice Software.csproj.AssemblyReference.cache
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice_Software.MDIParent.resources
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice_Software.Properties.Resources.resources
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice Software.csproj.GenerateResource.cache
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice Software.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\bin\Debug\Invoice Software.exe.config
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\bin\Debug\Invoice Software.exe
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\bin\Debug\Invoice Software.pdb
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice Software.exe
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice Software.pdb
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice_Software.frmSelectCompany.resources
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice_Software.frmInvoice.resources
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice_Software.AddParty.resources
+C:\Users\Vivek\source\repos\Invoice Software\Invoice Software\obj\Debug\Invoice_Software.frmUpdtDelParty.resources
